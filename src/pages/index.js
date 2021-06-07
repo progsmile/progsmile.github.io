@@ -42,14 +42,6 @@ const docLinkStyle = {
   marginBottom: 24,
 }
 
-const descriptionStyle = {
-  color: "#232129",
-  fontSize: 14,
-  marginTop: 10,
-  marginBottom: 0,
-  lineHeight: 1.25,
-}
-
 const docLink = {
   text: "Documentation",
   url: "https://www.gatsbyjs.com/docs/",
@@ -64,10 +56,8 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
         Congratulations
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
-        <span role="img" aria-label="Party popper emojis">
-          🎉🎉🎉
-        </span>
+        <span style={headingAccentStyles}>— you just made a site! </span>
+        <span role="img" aria-label="Party popper emojis">🎉</span>
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
