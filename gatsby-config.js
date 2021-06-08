@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "PsyBlog",
+    description: "Блог прогрессивных психотерапий"
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",
