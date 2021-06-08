@@ -12,7 +12,7 @@ const IndexPage = () => {
         <h3>Все статьи</h3>
         <ul>
           <li><a href={'/articles/parasympathetic-breath'}>Парасимпатическое дыхание для увеличения силы воли</a></li>
-          <li><a href={'/articles/inner-trigger'}>Страдания от внутренней мысли-триггера</a></li>
+          <li><a href={'/articles/inner-trigger'}>Триггер - только внутренний</a></li>
         </ul>
       </main>
     </Layout>
