@@ -1,1 +1,1 @@
-# Psy blog at https://psyblogio.gatsbyjs.io/
+# Psy blog at https://psyblog.gatsbyjs.io/
