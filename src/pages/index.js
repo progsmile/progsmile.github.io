@@ -11,9 +11,10 @@ const IndexPage = () => {
 
         <h3>Все статьи</h3>
         <ul>
-          <li><a href={'/articles/parasympathetic-breath'}>Парасимпатическое дыхание для увеличения силы воли</a></li>
-          <li><a href={'/articles/inner-trigger'}>Триггер - только внутренний</a></li>
+          <li><a href={'/articles/cognitive-bias'}>Когнитивные искажения</a></li>
           <li><a href={'/articles/theory-of-mind'}>Theory of Mind (ToM) / чтение мыслей, чувств / интуиция</a></li>
+          <li><a href={'/articles/inner-trigger'}>Триггер - только внутренний</a></li>
+          <li><a href={'/articles/parasympathetic-breath'}>Парасимпатическое дыхание для увеличения силы воли</a></li>
         </ul>
       </main>
     </Layout>
