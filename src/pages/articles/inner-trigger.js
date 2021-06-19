@@ -15,7 +15,7 @@ const InnerTriggerPage = () => {
             </ul>
           </p>
           <p>
-            Пруфф <br />
+            <h4>Пруфф</h4>
 
             <iframe width="560" title="1" height="315" src="https://www.youtube.com/embed/18Dxdp16Xgc" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" frameBorder="0" allowFullScreen />
             <iframe width="560" title="2" height="315" src="https://www.youtube.com/embed/pv1ssNXLoxE" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" frameBorder="0" allowFullScreen />
