@@ -45,6 +45,8 @@ const CognitiveDistortionsPage = () => {
                   <li><i>Собственные примеры?</i></li>
                 </ul>
               </li>
+
+              <li style={styles.list}><b>Чтение мыслей</b> см.: <a href={'/articles/theory-of-mind'}>Theory of Mind</a></li>
             </ul>
           </p>
         </div>
